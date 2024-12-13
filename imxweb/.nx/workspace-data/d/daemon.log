@@ -1,0 +1,11 @@
+[NX Daemon Server] - 2024-12-12T11:11:20.485Z - Started listening on: /var/folders/t_/fl0npxx57z94d5c_nk6r8vbw0000gn/T/31a7468b0661480bd0e3/d.sock
+[NX Daemon Server] - 2024-12-12T11:11:20.487Z - [WATCHER]: Subscribed to changes within: /Users/barry/Desktop/IMX/IdentityManager.Imx/imxweb (native)
+[NX Daemon Server] - 2024-12-12T11:11:20.494Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-12T11:11:20.495Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-12-12T11:11:20.495Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-12-12T11:11:20.496Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-12-12T11:11:20.496Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-12-12T11:11:20.496Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-12-12T11:11:20.498Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-12-12T11:11:20.498Z - [WATCHER]: Stopping the watcher for /Users/barry/Desktop/IMX/IdentityManager.Imx/imxweb (sources)
+[NX Daemon Server] - 2024-12-12T11:11:20.498Z - [WATCHER]: Stopping the watcher for /Users/barry/Desktop/IMX/IdentityManager.Imx/imxweb (outputs)
